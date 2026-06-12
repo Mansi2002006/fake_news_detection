@@ -1,4 +1,4 @@
-# Fake News Detector 2.0
+# Fake News Detector 
 
 An open-source web app that detects fake news headlines using machine learning and offers instant fact-checking for India’s President claims.
 
